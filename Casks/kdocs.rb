@@ -1,4 +1,4 @@
-cask "kdocs-private" do
+cask "kdocs" do
   version "3.8.1,1001"
   sha256 "987ff5cf36c899648e9575c93dcb88a15aaec8173ffca5556cc6485fae0bd707"
 

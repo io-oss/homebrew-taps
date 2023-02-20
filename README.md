@@ -1,2 +1,2 @@
 # homebrew-taps
-homebrew软件仓库
+自用homebrew软件仓库
